@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:6-alpine
 MAINTAINER Mitchell Hewes <me@mitcdh.com>
 
 RUN apk --update add \
